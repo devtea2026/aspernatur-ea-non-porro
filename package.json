@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/aspernatur-ea-non-porro",
-  "version": "4.2.47",
+  "version": "4.2.48",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -631,5 +631,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/aspernatur-ea-non-porro/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
